@@ -1,0 +1,21 @@
+{
+  "name": "express-demmo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "config": "^3.3.12",
+    "debug": "^4.3.7",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0",
+    "joi": "^17.13.3",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.3"
+  }
+}
